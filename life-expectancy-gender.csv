@@ -1,6 +1,5 @@
-Entity,Code,Year,Life expectancy - Sex: female - Age: at birth - Variant: estimates,Life expectancy - Sex: male - Age: at birth - Variant: estimates,Population - Sex: all - Age: all - Variant: estimates,Continent
-Abkhazia,OWID_ABK,2015,,,,Asia
-Afghanistan,AFG,1950,28.4,27.1,7480464,
+Entity,Code,Year,Life expectancy_female,Life expectancy_male,Population_allSex,Continent
+Afghanistan,AFG,1950,28.4,27.1,7480464,Asia
 Afghanistan,AFG,1951,28.6,27.4,7571542,
 Afghanistan,AFG,1952,29.1,27.8,7667534,
 Afghanistan,AFG,1953,29.6,28.3,7764549,
