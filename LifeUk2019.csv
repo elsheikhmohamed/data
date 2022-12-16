@@ -1,0 +1,65 @@
+Borough,Sex,Life Expectancy (LE)
+Barking and Dagenham,Males,78.1
+Barking and Dagenham,Females,82.3
+Barnet,Males,82.9
+Barnet,Females,86
+Bexley,Males,80.1
+Bexley,Females,84.1
+Brent,Males,81.3
+Brent,Females,85.5
+Bromley,Males,81.6
+Bromley,Females,85.1
+Camden,Males,83.3
+Camden,Females,87.1
+Croydon,Males,80.4
+Croydon,Females,83.9
+Ealing,Males,81.1
+Ealing,Females,84.8
+Enfield,Males,81
+Enfield,Females,84.7
+Greenwich,Males,79.6
+Greenwich,Females,83.4
+Hackney,Males,79.8
+Hackney,Females,84.2
+Hammersmith and Fulham,Males,79.8
+Hammersmith and Fulham,Females,84.7
+Haringey,Males,80.7
+Haringey,Females,84.8
+Harrow,Males,83.2
+Harrow,Females,86.2
+Havering,Males,80.1
+Havering,Females,84
+Hillingdon,Males,80.2
+Hillingdon,Females,84
+Hounslow,Males,80.2
+Hounslow,Females,84
+Islington,Males,79.7
+Islington,Females,83.4
+Kensington and Chelsea,Males,83.9
+Kensington and Chelsea,Females,87
+Kingston upon Thames,Males,81.8
+Kingston upon Thames,Females,85.2
+Lambeth,Males,79.5
+Lambeth,Females,84.2
+Lewisham,Males,79.1
+Lewisham,Females,83.8
+Merton,Males,81.1
+Merton,Females,84.5
+Newham,Males,80.4
+Newham,Females,83.5
+Redbridge,Males,81.5
+Redbridge,Females,85.2
+Richmond upon Thames,Males,82.6
+Richmond upon Thames,Females,86.3
+Southwark,Males,79.6
+Southwark,Females,84.9
+Sutton,Males,80.9
+Sutton,Females,84.3
+Tower Hamlets,Males,80.3
+Tower Hamlets,Females,83.6
+Waltham Forest,Males,80.7
+Waltham Forest,Females,85
+Wandsworth,Males,80.6
+Wandsworth,Females,84.2
+Westminster,Males,84.9
+Westminster,Females,87.2
