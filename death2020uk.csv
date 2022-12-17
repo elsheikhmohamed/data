@@ -1,17 +1,17 @@
 Age Group,Leading Cause,% of deaths,Sex
 All ages,COVID-19,13.3,Male
-1-4,Congenital malformations deformations and chromosomal abnormalities,16.2,Male
-5-19,Intentional self-harm; and event of undetermined intent,17.1,Male
-20 -34,Intentional self-harm; and event of undetermined intent,25.6,Male
-35-49,Accidental poisoning,12.3,Male
-50-64,Ischaemic heart diseases,16.4,Male
-65-79,Ischaemic heart diseases,13.4,Male
-80,COVID-19,15.1,Male
-All ages,Dementia and Alzheimer’s disease,15.3,Female
-1-4,Congenital malformations deformations and chromosomal abnormalities,13.6,Female
-5-19,Intentional self-harm; and event of undetermined intent,12.4,Female
-20-34,Intentional self-harm; and event of undetermined intent,16.5,Female
-35-49,Malignant neoplasm of breast,11.3,Female
-50-64,Malignant neoplasm of breast,8.9,Female
-65-79,COVID-19,10.4,Female
-80,Dementia and Alzheimer’s disease,21.4,Female
+1 to 4,Congenital malformations deformations,16.2,Male
+5 to 19,Intentional self-harm,17.1,Male
+20 to 34,Intentional self-harm,25.6,Male
+35 to 49,Accidental poisoning,12.3,Male
+50 to 64,Ischaemic heart diseases,16.4,Male
+65 to 79,Ischaemic heart diseases,13.4,Male
+80 years and over,COVID-19,15.1,Male
+All ages,Dementia and Alzheimer,15.3,Female
+1 to 4,Congenital malformations deformations,13.6,Female
+5 to 19,Intentional self-harm,12.4,Female
+20 to 34,Intentional self-harm,16.5,Female
+35 to 49,Malignant neoplasm of breast,11.3,Female
+50 to 64,Malignant neoplasm of breast,8.9,Female
+65 to 79,COVID-19,10.4,Female
+80 years and over,Dementia and Alzheimer,21.4,Female
