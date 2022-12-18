@@ -1,99 +1,99 @@
-﻿Month,Number of death,Reason,Average,,Months
-Jan,"12,254",Deaths not involving COVID,"12,554",,1
-Jan,"14,058",Deaths not involving COVID,"10,103",,1
-Jan,"12,990",Deaths not involving COVID,"7,292",,1
-Jan,"11,856",Deaths not involving COVID,"4,694",,1
-Jan,"11,612",Deaths not involving COVID,"2,322",,1
-Jan,0,COVID-19,0,,1
-Jan,0,COVID-19,0,,1
-Jan,0,COVID-19,0,,1
-Jan,0,COVID-19,0,,1
-Jan,0,COVID-19,0,,1
-Feb,"10,986",Deaths not involving COVID,"8,717",,2
-Feb,"10,944",Deaths not involving COVID,"6,520",,2
-Feb,"10,841",Deaths not involving COVID,"4,331",,2
-Feb,"10,816",Deaths not involving COVID,"2,163",,2
-Feb,0,COVID-19,0,,2
-Feb,0,COVID-19,0,,2
-Feb,0,COVID-19,0,,2
-Feb,0,COVID-19,0,,2
-Mar,"10,895",Deaths not involving COVID,"8,611",,3
-Mar,"11,014",Deaths not involving COVID,"6,433",,3
-Mar,"10,542",Deaths not involving COVID,"4,250",,3
-Mar,"10,602",Deaths not involving COVID,"2,250",,3
-Mar,0,COVID-19,0,,3
-Mar,5,COVID-19,"5,172",,3
-Mar,103,COVID-19,"7,890",,3
-Mar,539,COVID-19,"10,621",,3
-Apr,"12,912",Deaths not involving COVID,"11,209",,4
-Apr,"12,303",Deaths not involving COVID,"9,869",,4
-Apr,"13,593",Deaths not involving COVID,"9,160",,4
-Apr,"13,760",Deaths not involving COVID,"8,089",,4
-Apr,"3,475",COVID-19,"7,720",,4
-Apr,"6,213",COVID-19,"8,771",,4
-Apr,"8,758",COVID-19,"9,681",,4
-Apr,"8,237",COVID-19,"9,869",,4
-May,"11,918",Deaths not involving COVID,"9,822",,5
-May,"8,727",Deaths not involving COVID,"8,645",,5
-May,"10,763",Deaths not involving COVID,"7,686",,5
-May,"9,699",Deaths not involving COVID,"6,295",,5
-May,"8,002",Deaths not involving COVID,"4,873",,5
-May,"6,035",COVID-19,"3,637",,5
-May,"3,930",COVID-19,"4,254",,5
-May,"3,810",COVID-19,"5,241",,5
-May,"2,589",COVID-19,"6,190",,5
-May,"1,822",COVID-19,"7,347",,5
-Jun,"9,121",Deaths not involving COVID,"7,300",,6
-Jun,"8,862",Deaths not involving COVID,"5,699",,6
-Jun,"8,556",Deaths not involving COVID,"4,083",,6
-Jun,"8,373",Deaths not involving COVID,"2,493",,6
-Jun,"1,588",COVID-19,"2,540",,6
-Jun,"1,114",COVID-19,"3,887",,6
-Jun,783,COVID-19,"5,370",,6
-Jun,606,COVID-19,"6,948",,6
-Jul,"8,608",Deaths not involving COVID,"8,577",,7
-Jul,"8,324",Deaths not involving COVID,"6,962",,7
-Jul,"8,528",Deaths not involving COVID,"5,371",,7
-Jul,"8,674",Deaths not involving COVID,"3,724",,7
-Jul,"8,753",Deaths not involving COVID,"2,033",,7
-Jul,532,COVID-19,321,,7
-Jul,366,COVID-19,"1,973",,7
-Jul,295,COVID-19,"3,750",,7
-Jul,217,COVID-19,"5,590",,7
-Jul,193,COVID-19,"7,333",,7
-Aug,"8,793",Deaths not involving COVID,"7,324",,8
-Aug,"9,253",Deaths not involving COVID,"5,594",,8
-Aug,"9,493",Deaths not involving COVID,"3,771",,8
-Aug,"8,931",Deaths not involving COVID,"1,892",,8
-Aug,152,COVID-19,"1,638",,8
-Aug,139,COVID-19,"3,550",,8
-Aug,138,COVID-19,"5,399",,8
-Aug,101,COVID-19,"7,255",,8
-Sep,"7,661",Deaths not involving COVID,"7,251",,9
-Sep,"9,712",Deaths not involving COVID,"5,738",,9
-Sep,"9,384",Deaths not involving COVID,"3,824",,9
-Sep,"9,419",Deaths not involving COVID,"1,990",,9
-Sep,78,COVID-19,"2,031",,9
-Sep,99,COVID-19,"3,919",,9
-Sep,139,COVID-19,"5,872",,9
-Sep,215,COVID-19,"7,796",,9
-Oct,"9,624",Deaths not involving COVID,"9,655",,10
-Oct,"9,516",Deaths not involving COVID,"7,794",,10
-Oct,"9,864",Deaths not involving COVID,"5,978",,10
-Oct,"9,761",Deaths not involving COVID,"4,140",,10
-Oct,"9,508",Deaths not involving COVID,"2,383",,10
-Oct,321,COVID-19,757,,10
-Oct,438,COVID-19,"2,668",,10
-Oct,670,COVID-19,"4,538",,10
-Oct,978,COVID-19,"6,372",,10
-Oct,"1,379",COVID-19,"8,059",,10
-Nov,"9,875",Deaths not involving COVID,"8,171",,11
-Nov,"9,788",Deaths not involving COVID,"6,689",,11
-Nov,"9,838",Deaths not involving COVID,"5,271",,11
-Nov,"9,416",Deaths not involving COVID,"3,911",,11
-Nov,"1,937",COVID-19,"3,922",,11
-Nov,"2,466",COVID-19,"4,101",,11
-Nov,"2,697",COVID-19,"4,510",,11
-Nov,"3,040",COVID-19,"5,114",,11
-Dec,"9,468",Deaths not involving COVID,"6,152",,12
-Dec,"2,835",COVID-19,"2,835",,12
+﻿Month,Number of death,Reason,,,
+Jan,"12,254",Deaths not involving COVID,,,
+Jan,"14,058",Deaths not involving COVID,,,
+Jan,"12,990",Deaths not involving COVID,,,
+Jan,"11,856",Deaths not involving COVID,,,
+Jan,"11,612",Deaths not involving COVID,,,
+Jan,0,COVID-19,,,
+Jan,0,COVID-19,,,
+Jan,0,COVID-19,,,
+Jan,0,COVID-19,,,
+Jan,0,COVID-19,,,
+Feb,"10,986",Deaths not involving COVID,,,
+Feb,"10,944",Deaths not involving COVID,,,
+Feb,"10,841",Deaths not involving COVID,,,
+Feb,"10,816",Deaths not involving COVID,,,
+Feb,0,COVID-19,,,
+Feb,0,COVID-19,,,
+Feb,0,COVID-19,,,
+Feb,0,COVID-19,,,
+Mar,"10,895",Deaths not involving COVID,,,
+Mar,"11,014",Deaths not involving COVID,,,
+Mar,"10,542",Deaths not involving COVID,,,
+Mar,"10,602",Deaths not involving COVID,,,
+Mar,0,COVID-19,,,
+Mar,5,COVID-19,,,
+Mar,103,COVID-19,,,
+Mar,539,COVID-19,,,
+Apr,"12,912",Deaths not involving COVID,,,
+Apr,"12,303",Deaths not involving COVID,,,
+Apr,"13,593",Deaths not involving COVID,,,
+Apr,"13,760",Deaths not involving COVID,,,
+Apr,"3,475",COVID-19,,,
+Apr,"6,213",COVID-19,,,
+Apr,"8,758",COVID-19,,,
+Apr,"8,237",COVID-19,,,
+May,"11,918",Deaths not involving COVID,,,
+May,"8,727",Deaths not involving COVID,,,
+May,"10,763",Deaths not involving COVID,,,
+May,"9,699",Deaths not involving COVID,,,
+May,"8,002",Deaths not involving COVID,,,
+May,"6,035",COVID-19,,,
+May,"3,930",COVID-19,,,
+May,"3,810",COVID-19,,,
+May,"2,589",COVID-19,,,
+May,"1,822",COVID-19,,,
+Jun,"9,121",Deaths not involving COVID,,,
+Jun,"8,862",Deaths not involving COVID,,,
+Jun,"8,556",Deaths not involving COVID,,,
+Jun,"8,373",Deaths not involving COVID,,,
+Jun,"1,588",COVID-19,,,
+Jun,"1,114",COVID-19,,,
+Jun,783,COVID-19,,,
+Jun,606,COVID-19,,,
+Jul,"8,608",Deaths not involving COVID,,,
+Jul,"8,324",Deaths not involving COVID,,,
+Jul,"8,528",Deaths not involving COVID,,,
+Jul,"8,674",Deaths not involving COVID,,,
+Jul,"8,753",Deaths not involving COVID,,,
+Jul,532,COVID-19,,,
+Jul,366,COVID-19,,,
+Jul,295,COVID-19,,,
+Jul,217,COVID-19,,,
+Jul,193,COVID-19,,,
+Aug,"8,793",Deaths not involving COVID,,,
+Aug,"9,253",Deaths not involving COVID,,,
+Aug,"9,493",Deaths not involving COVID,,,
+Aug,"8,931",Deaths not involving COVID,,,
+Aug,152,COVID-19,,,
+Aug,139,COVID-19,,,
+Aug,138,COVID-19,,,
+Aug,101,COVID-19,,,
+Sep,"7,661",Deaths not involving COVID,,,
+Sep,"9,712",Deaths not involving COVID,,,
+Sep,"9,384",Deaths not involving COVID,,,
+Sep,"9,419",Deaths not involving COVID,,,
+Sep,78,COVID-19,,,
+Sep,99,COVID-19,,,
+Sep,139,COVID-19,,,
+Sep,215,COVID-19,,,
+Oct,"9,624",Deaths not involving COVID,,,
+Oct,"9,516",Deaths not involving COVID,,,
+Oct,"9,864",Deaths not involving COVID,,,
+Oct,"9,761",Deaths not involving COVID,,,
+Oct,"9,508",Deaths not involving COVID,,,
+Oct,321,COVID-19,,,
+Oct,438,COVID-19,,,
+Oct,670,COVID-19,,,
+Oct,978,COVID-19,,,
+Oct,"1,379",COVID-19,,,
+Nov,"9,875",Deaths not involving COVID,,,
+Nov,"9,788",Deaths not involving COVID,,,
+Nov,"9,838",Deaths not involving COVID,,,
+Nov,"9,416",Deaths not involving COVID,,,
+Nov,"1,937",COVID-19,,,
+Nov,"2,466",COVID-19,,,
+Nov,"2,697",COVID-19,,,
+Nov,"3,040",COVID-19,,,
+Dec,"9,468",Deaths not involving COVID,,,
+Dec,"2,835",COVID-19,,,
