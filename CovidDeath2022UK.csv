@@ -1,4 +1,4 @@
-areaType,areaName,areaCode,date,newDeaths28DaysByDeathDate,cumDeaths28DaysByDeathDate,year
+areaType,areaName,areaCode,date,newDeaths28DaysByDeathDate,cumDeaths28DaysByDeathDate,
 overview,United Kingdom,K02000001,19/05/2022,72,178400,2022
 overview,United Kingdom,K02000001,18/05/2022,70,178328,2022
 overview,United Kingdom,K02000001,17/05/2022,94,178258,2022
